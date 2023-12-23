@@ -1,0 +1,5 @@
+{
+    "name": "Emby",
+    "version": "1.0.1",
+    "parameter": "menu:https://ghostrider022.github.io/msx/data/menu.json"
+}
